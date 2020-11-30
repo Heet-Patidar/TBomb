@@ -37,7 +37,7 @@ banner() {
     fi
     echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
     echo -e "\e[1;32m           Mail: h.stermux07@gmail.com \e[0m"
-    echo -e "\e[4;32m   YouTube: Gyana Tech \e[0m"
+    echo -e "\e[4;32m   Created By Heet Sanghani \e[0m"
     echo " "
 
 }
