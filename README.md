@@ -7,8 +7,7 @@
 * `git clone https://github.com/Heet-Patidar/TBomb`
 * `cd TBomb`
 * `chmod +x TBomb.sh`
-* `bash TBomb.sh`
-#### > Run : `bash zphisher.sh`
+#### > Run : `bash TBomb.sh`
 
 ## Single Command :
 ```
