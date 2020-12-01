@@ -12,7 +12,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git ; python ; git clone https://github.com/Heet-Patidar/TBomb ; cd TBomb ; Chmod +x TBomb.sh ; bash TBomb.sh
+apt update ; pkg install git ; pkg install python ; git clone https://github.com/Heet-Patidar/TBomb ; cd TBomb ; Chmod +x TBomb.sh ; bash TBomb.sh
 ```
 
 
