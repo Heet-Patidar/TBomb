@@ -30,10 +30,10 @@ banner() {
         figlet TBomb
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mSpeedX \e[0m"
+        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mHeet_Sanghani \e[0m"
     else
         echo -e "\e[1;34mCreated By Heet Patidar,\e[1;34m"
-        toilet -f mono12 -F border SpeedX
+        toilet -f mono12 -F border H.S
     fi
     echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
     echo -e "\e[1;32m           Mail: h.stermux07@gmail.com \e[0m"
@@ -95,7 +95,7 @@ else
     echo .
     echo .
     install_deps
-    echo This Script Was Made By SpeedX > .update
+    echo This Script Was Made By Heet Sanghani > .update
     echo 'Requirements Installed....'
     pause
 fi
